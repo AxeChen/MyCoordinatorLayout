@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MyCoordinatorLayout">
+        <attr name="layout_behavior" format="string" />
+    </declare-styleable>
+
+</resources>
